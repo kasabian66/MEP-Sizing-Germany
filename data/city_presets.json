@@ -1,0 +1,32 @@
+{
+  "Berlin": {
+    "design_temp_C": -12,
+    "rain_r_l_s_ha": 350,
+    "design_summer_C": 32.0
+  },
+  "D\u00fcsseldorf": {
+    "design_temp_C": -10,
+    "rain_r_l_s_ha": 330,
+    "design_summer_C": 31.0
+  },
+  "Hamburg": {
+    "design_temp_C": -8,
+    "rain_r_l_s_ha": 360,
+    "design_summer_C": 31.0
+  },
+  "Munich": {
+    "design_temp_C": -16,
+    "rain_r_l_s_ha": 300,
+    "design_summer_C": 32.0
+  },
+  "Frankfurt": {
+    "design_temp_C": -10,
+    "rain_r_l_s_ha": 320,
+    "design_summer_C": 31.0
+  },
+  "Custom": {
+    "design_temp_C": -10,
+    "rain_r_l_s_ha": 300,
+    "design_summer_C": 31.0
+  }
+}
